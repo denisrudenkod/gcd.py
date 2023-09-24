@@ -4,4 +4,5 @@ def gcd(a, b):
         t = b
         b = a % b
         a = t
+        
     return a
